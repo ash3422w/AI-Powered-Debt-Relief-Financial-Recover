@@ -9,7 +9,6 @@ This phase focuses on identifying the financial challenges faced by individuals,
 - Problem Statement
 - Empathy Map
 - Brainstorming Ideas
-- Project Vision
 
 ## Objective
 
